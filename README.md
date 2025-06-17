@@ -72,7 +72,11 @@ Performs well on unseen fecal images with strong generalization.
 ## 🌐 Web App (Flask)
 
 A simple web app is included to allow real-time predictions.
+<<<<<<< HEAD
 ![alt text](image.png)
+=======
+
+>>>>>>> 43ff1cb172972eb1b41ccd259cdd62427a5e6543
 
 ## 🤝 Contribution
 
@@ -82,6 +86,10 @@ Feel free to fork the repo, improve the model, add more disease classes, or enha
 This project is licensed under the MIT License.
 
 ## 🙋‍♂️ About Me
+<<<<<<< HEAD
+=======
+
+>>>>>>> 43ff1cb172972eb1b41ccd259cdd62427a5e6543
 I’m Swapnil Halder, a deep learning enthusiast and web developer.
 Feel free to connect with me:
 
