@@ -72,9 +72,8 @@ Performs well on unseen fecal images with strong generalization.
 ## 🌐 Web App (Flask)
 
 A simple web app is included to allow real-time predictions.
-
-![alt text](image1.jpeg)
 ![alt text](image2.jpeg)
+![alt text](image1.jpeg)
 ![alt text](image3.jpeg)
 
 
