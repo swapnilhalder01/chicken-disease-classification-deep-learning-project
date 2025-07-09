@@ -258,7 +258,7 @@ function sendRequest(base64Data){
 					const prediction = res[0];
 let formatted = '';
 for (let key in prediction) {
-    formatted += `<p><strong>${key}:</strong> ${prediction[key]}</p>`;
+    formatted += `<h4><strong>${key}:</strong> ${prediction[key]}</h4>`;
 }
 $(".res-part").html(formatted);
 
