@@ -73,9 +73,9 @@ Performs well on unseen fecal images with strong generalization.
 
 A simple web app is included to allow real-time predictions.
 
-![alt text](image1.png)
-![alt text](image2.png)
-![alt text](image3.png)
+![alt text](image1.jpeg)
+![alt text](image2.jpeg)
+![alt text](image3.jpeg)
 
 
 
